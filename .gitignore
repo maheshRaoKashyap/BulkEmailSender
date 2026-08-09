@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Gmail OAuth credentials - NEVER upload
+credentials.json
+token.json
+
+# Personal documents
+resume.pdf
+cover_letter.pdf
+
+# Recipient/contact data
+recipients.csv
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
